@@ -1,2 +1,2 @@
 # hello-world
-The first repository for formality.
+The first repository.
